@@ -1,3 +1,4 @@
+//Robert Prince, Full Sail University (2017)
 //Inherits EnemyStateMachine.cs
 
 using UnityEngine;
